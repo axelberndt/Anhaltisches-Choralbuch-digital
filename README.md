@@ -6,7 +6,7 @@ Authors: [Axel Berndt](https://github.com/axelberndt) ([Paderborn University](ht
 
 ### About
 
-We present a critical music edition of the whole "Anhaltisches Choralbuch" (English: "Anhalt Chorale Book"). It is a collection of four-part harmonizations of hymns from the hymnals commonly used in the German Duchy of Anhalt around 1900. All harmonizations were composed by [Rudolf Haase](https://imslp.org/wiki/Category:Haase,_Rudolf) (1841-1916). The book was printed by [Breitkopf & Härtel](https://www.breitkopf.com/) in Leipzig and published in 1901 by Verlag Otto Schulze in Köthen, Germany.
+We present a critical music edition of the whole "Anhaltisches Choralbuch" (English: "Anhalt Chorale Book"). It is a collection of four-part harmonizations of hymns from the hymnals commonly used in the German Duchy of Anhalt around 1900. All harmonizations were composed by [Rudolf Haase](https://imslp.org/wiki/Category:Haase,_Rudolf) (1841-1916). The book was printed by [Breitkopf & Härtel](https://www.breitkopf.com/) in Leipzig and published by Verlag Otto Schulze in Köthen, Germany. The main source for the encodings was the [2nd edition](/facsimile/) from 1901.
 
 ### License
 [![CC BY 4.0][cc-by-shield]][cc-by]
