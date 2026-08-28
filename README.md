@@ -2,7 +2,7 @@
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
-Authors: [Axel Berndt](https://github.com/axelberndt) ([Paderborn University](https://www.uni-paderborn.de/person/55565)), Aida Amiryan-Stein ([Paderborn University](https://www.uni-paderborn.de/person/89520)), [Notengrafik Berlin](https://notengrafik.com/)
+Authors: [Axel Berndt](https://github.com/axelberndt) ([Paderborn University](https://www.uni-paderborn.de/person/55565)), Aida Amiryan-Stein ([Paderborn University](https://www.uni-paderborn.de/person/89520)), [Notengrafik Berlin GmbH](https://notengrafik.com/)
 
 ### About
 
