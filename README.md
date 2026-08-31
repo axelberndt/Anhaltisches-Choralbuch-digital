@@ -2,7 +2,7 @@
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
-Authors: [Axel Berndt](https://github.com/axelberndt) ([Paderborn University](https://www.uni-paderborn.de/person/55565)), [Thomas Weber](https://github.com/th-we)([Notengrafik Berlin GmbH](https://notengrafik.com/)), [Aida Amiryan-Stein](https://github.com/AidaAmst) ([Paderborn University](https://www.uni-paderborn.de/person/89520))
+Authors: [Axel Berndt](https://github.com/axelberndt) ([Paderborn University](https://www.uni-paderborn.de/person/55565)), [Thomas Weber](https://github.com/th-we) ([Notengrafik Berlin GmbH](https://notengrafik.com/)), [Aida Amiryan-Stein](https://github.com/AidaAmst) ([Paderborn University](https://www.uni-paderborn.de/person/89520))
 
 ### About
 
